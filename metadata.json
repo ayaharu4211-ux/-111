@@ -1,0 +1,5 @@
+{
+  "name": "AffiVault - Affiliate Link Manager",
+  "description": "A secure, local-first repository for managing and organizing affiliate links for platforms like Note, X (Twitter), and Instagram. Features genre categorization, one-click copying, and zero-server privacy.",
+  "requestFramePermissions": []
+}
